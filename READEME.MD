@@ -17,7 +17,9 @@ Usage
 7.Load a previously saved file using the "Load" button
 Installation
 1. Clone the repository:
-git clone https://github.com/thilaksagarn/Web-Application-Mimicking-Google-Sheets.git
+git clone repository:
+   ```sh
+   git clone https://github.com/Rohini1220/Web-Application-Mimicking-Google-Sheets.git
 2. Navigate to the project directory:
 cd Web-Application-Mimicking-Google-Sheets
 3. Open index.html in a browser to run the application.
